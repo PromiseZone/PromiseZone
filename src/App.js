@@ -8,7 +8,6 @@ class App extends Component {
         <header className="App-header">
           <p>LA Promise Zone</p>
         </header>
-
       </div>
     );
   }
