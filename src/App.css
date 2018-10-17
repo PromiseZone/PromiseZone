@@ -1,10 +1,13 @@
+* {
+  background-color: #f8f9fa;
+}
+
 .App {
   text-align: center;
 }
 
 
 .App-header {
-  /* background-color: #282c34; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -13,10 +16,3 @@
   color: #282c34;
 }
 
-ul {
-  list-style: none;
-}
-
-a {
-  text-decoration: none;
-}
