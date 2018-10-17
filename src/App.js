@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
+import Navbar from './components/Navbar';
 import './App.css';
+
 
 class App extends Component {
   render() {
@@ -7,6 +9,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <p>LA Promise Zone</p>
+          <Navbar />
         </header>
       </div>
     );
