@@ -9,7 +9,7 @@ export default function Navbar() {
                     <li><a href="#">Economic Opportunity</a></li>
                     <li><a href="#">Education</a></li>
                     <li><a href="#">Public Safety</a></li>
-                    <li><a href="#">Neighborhoods</a></li>
+                    <li><a href="#">Economic Opportunity</a></li>
                 </ul>
             </div>
         </nav>
