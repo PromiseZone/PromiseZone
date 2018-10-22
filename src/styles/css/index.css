@@ -7,10 +7,16 @@
 a {
   text-decoration: none; }
 
-html {
-  font-size: 62.5%; }
+/* html {
+  font-size: 62.5%; } */
 
 body {
   box-sizing: border-box;
   padding: 0rem;
   line-height: 1.7; }
+
+.App {
+  height: 163px;
+  border: 2px solid black; }
+  .App__population {
+    font-weight: bold; }
