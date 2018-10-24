@@ -1,1 +1,36 @@
 
+* {
+    background-color: #f8f9fa;
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit; 
+}
+  
+a {
+    text-decoration: none; 
+}
+  
+  /* html {
+    font-size: 62.5%; } */
+  
+body {
+    box-sizing: border-box;
+    padding: 0rem;
+    line-height: 1.7; 
+}
+  
+.App {
+    height: 180px;
+    margin-top: 80px;
+}
+
+.App-header {
+    margin-left: 30%;
+}
+
+.App__population {
+    font-weight: bold; 
+}
+  
+
+

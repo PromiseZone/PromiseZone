@@ -17,3 +17,8 @@ li a {
 li a:hover {
     color: #00628a;
 }
+
+.nav-wrapper {
+    height: 80px;
+    border: 2px solid red;
+}
