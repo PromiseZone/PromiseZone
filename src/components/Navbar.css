@@ -16,4 +16,18 @@ li a {
 
 li a:hover {
     color: #00628a;
+    border-top: 4px solid #00ade9;
+    padding-top: 32px;
+}
+
+.nav-wrapper {
+    height: 80px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
