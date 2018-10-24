@@ -16,11 +16,12 @@ li a {
 
 li a:hover {
     color: #00628a;
+    border-top: 4px solid #00ade9;
+    padding-top: 32px;
 }
 
 .nav-wrapper {
     height: 80px;
-    border: 2px solid red;
 }
 
 .nav {
