@@ -12,6 +12,7 @@ class App extends Component {
           <p className="App__outcomes">Measurable Outcomes 13+</p>
           
         </header>
+        <hr className="hr1" />
           <Navbar />
       </div>
     );

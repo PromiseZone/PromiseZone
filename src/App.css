@@ -26,11 +26,15 @@ body {
 
 .App-header {
     margin-left: 30%;
+    line-height: 2.25;
 }
 
 .App__population {
     font-weight: bold; 
 }
   
-
+.hr1 {
+    margin-top: 90px;
+    color: #5d5d5d;
+}
 
